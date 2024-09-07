@@ -1,6 +1,7 @@
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Coding"/>
 <h1 align="center">Hi 👋, I'm Yafet</h1>
 <h3 align="center">A passionate full stack develoepr & Ethical Hacker from Ethiopia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yafet-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yafet-dev" /> </p>
 
 - 🌱 I’m currently learning **Solidity**
 
