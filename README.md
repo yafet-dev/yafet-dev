@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yafet</h1>
 <h3 align="center">A passionate full stack develoepr</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" width="400" alt="coding"/>
 
 - 🌱 I’m currently learning **Solidity**
 
