@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Web Development, Pentest**
+- 💬 Ask me about **Web Development, Web-Security**
 
 - 📫 How to reach me **yafetdev@gmail.com**
 
