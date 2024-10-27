@@ -4,10 +4,9 @@
   <samp>
     :wave: Hi there ツ It's Yafet
     <br>I'm passionate about building security tools  
-<br>and crafting innovative projects that enhance  
-<br><em>contributing for the safety of internet</em><em>shaping the future of the internet</em>. <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
+<br><em>contributing for the safety of internet</em> & <em>building secure and stable apps</em>. <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"><br><br>
     <img src="https://media.giphy.com/media/gLbxPIO6lIMZEPm7XN/source.gif" width="240px" align="center">
-    <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:yafetdev@gmail.com?subject=Let's Build Together">hello@gayurug.com</a>
+    <br><br>:coffee: Let's talk? 💌 @ <a href="mailto:yafetdev@gmail.com?subject=Let's Build Together">yafetdev@gmail.com</a>
     <br><br><em>also.. my new portfolio is here!!</em>
   </samp>
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
