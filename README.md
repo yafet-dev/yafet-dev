@@ -13,6 +13,6 @@
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
   <samp>
   <br>
-     <br><img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://yafet-dev.com">gayurug.com</a> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
+     <br><img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px"> <a href="https://yafet-dev.com">yafet-dev.com</a> <img src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
   </samp>
 </p>
